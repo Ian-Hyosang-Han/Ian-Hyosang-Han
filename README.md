@@ -7,8 +7,8 @@
 
 ## 🌱 What I'm Currently Working On
 
-- 🖥 I'm actively seeking a role as a **Front-End Web Developer**, where I can contribute to building accessible and engaging digital products.
-- 👨🏽‍💻 I'm currently deepening my understanding of **TypeScript** and plan to explore **Next.js** as my next step in advancing my skills.
+- 🖥 I'm currently pursuing a career as a Full-Stack Developer, studying both front-end and back-end technologies in parallel.
+- 👨🏽‍💻 I'm currently focused on learning TypeScript and C# with .NET Core, and I’m preparing to explore Vue and Angular next to broaden my front-end framework experience.
 
 ## 🛠 My Tech Stack
 
